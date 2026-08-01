@@ -1,0 +1,9 @@
+{
+  "name": "Irisora Eye Institute Demo by AJAYNXT",
+  "short_name": "Irisora",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#F7FBFB",
+  "theme_color": "#073F50",
+  "icons": []
+}
